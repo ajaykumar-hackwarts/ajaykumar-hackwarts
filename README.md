@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Ajay
 
 Secui Engineer @Cognizant
-<img align="right" width="380" height="270" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWgNN8Wa2UZ7gjlkvrUpwkB9AHayWs-pAEJA&s">                                                 
+<img align="right" width="380" height="270" src="https://i.pinimg.com/originals/8b/fd/01/8bfd01c18be1b5059bc0d7770d9dabf1.gif">                                                 
 - 🌱 I’m currently working on Android Reverse Engineering
 - Learning Ethical Hacking enthusiastically
 - Engineeing at [<img src="https://www.highbrowtechnology.com/_next/image?url=https%3A%2F%2Fhighbrow-resources.s3.amazonaws.com%2FHighbrow%2BWebsite%2BContent%2FHighbrow_Light.png&w=256&q=75" height="24">](https://www.highbrowtechnology.com/),
