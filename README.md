@@ -1,5 +1,5 @@
 
-<img align="center" src="Ajay Kumar.png" width="500" height="150" />
+<img align="center" src="Ajay Kumar.png" width="1500" height="150" />
 
 
 <h2 align="center"><b>Hi there! 👋 I'm Ajay </b></h2>
