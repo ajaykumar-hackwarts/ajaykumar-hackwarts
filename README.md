@@ -1,5 +1,5 @@
 
-<img src="https://www.canva.com/design/DAG5hyz5UAg/MN_qwBZTl1wfYriSHDsKgw/view?utm_content=DAG5hyz5UAg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb2462c89bb" width="4000" height="250" />
+<img src="Ajay Kumar.png" width="3500" height="350" />
 
 
 <h2 align="center"><b>Hi there! 👋 I'm Ajay </b></h2>
