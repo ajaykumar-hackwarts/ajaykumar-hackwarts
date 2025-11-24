@@ -1,5 +1,5 @@
 
-![GIT HUB BANNER](https://github.com/thejagadeesh/thejagadeesh/assets/114074976/eca5972e-4f18-471a-bb25-ba26c63d7ce9)
+<img src="https://www.canva.com/design/DAG5hyz5UAg/MN_qwBZTl1wfYriSHDsKgw/view?utm_content=DAG5hyz5UAg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb2462c89bb" width="4000" height="250" />
 
 
 <h2 align="center"><b>Hi there! 👋 I'm Ajay </b></h2>
@@ -52,8 +52,5 @@ I'm excited to connect with fellow cybersecurity enthusiasts and professionals! 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajaykumar-hackwarts&bg_color=080808&color=f7f7f7&line=1fe02f&point=b2d30d&area=true&hide_border=true" width="100%">
 
-
-Thank you for visiting my profile, and don't forget to check out 🚀[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]
-(https://sites.google.com/view/jagadeeshr)✨
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/194bc176c0b3f2ef01a883ff206499b86c5ce72f/assets/Bottom_down.svg" width="4000" height="250" />
 
